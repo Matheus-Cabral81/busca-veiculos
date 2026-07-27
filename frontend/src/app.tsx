@@ -1,3 +1,12 @@
+import { Hero } from "./components/hero";
+import NavBar from "./components/nav-bar";
+import { c } from "./lib/theme";
+
 export default function App() {
-  return <h1>TH e Lucas Barros são fodas</h1>
+  return (
+    <div style={{ background: c.porcelain, minHeight: "100vh" }}>
+      <NavBar />
+      <Hero />
+    </div>
+  );
 }
