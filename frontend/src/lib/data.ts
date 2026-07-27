@@ -28,14 +28,14 @@ export type Feature = {
 };
 
 export const SOURCES: string[] = [
-  "AutoPátio",
-  "CarroCerto",
-  "Revenda Sul",
-  "Multimarcas BR",
-  "Garagem87",
-  "TrocaFácil",
-  "VeloxMotors",
-  "Pátio Norte",
+  "TH Viadinho",
+  "Erik",
+  "Santi",
+  "Souzinha",
+  "Jojo Del",
+  "Carol",
+  "Julia",
+  "Tuts",
 ];
 
 export const LISTINGS: Listing[] = [

@@ -15,7 +15,7 @@ export default function NavBar() {
             className="text-xl tracking-tight"
             style={{ fontFamily: "'Fraunces', serif", fontWeight: 500, color: c.ink }}
           >
-            Radar-Veiculos
+            Buscar-Veiculos
           </span>
 
           <nav className="hidden md:flex items-center gap-10 text-sm" style={{ color: c.inkSoft }}>
